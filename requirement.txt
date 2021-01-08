@@ -1,0 +1,6 @@
+bs4
+selenium
+numpy
+pandas
+tqdm
+requests
